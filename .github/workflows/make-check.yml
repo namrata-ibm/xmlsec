@@ -4,7 +4,7 @@ on:
   push:
     branches:
           - master
-          - xmlsec-1_2_x
+          - s390xci
   pull_request:
     branches:
           - master
